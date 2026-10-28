@@ -1,25 +1,25 @@
-// 寶哥畫空間 平板版 — 離線快取（版本 1.0.0-202610271204）
+// 寶哥畫空間 平板版 — 離線快取（版本 1.0.1-202610280714）
 // 第一次開啟時把整個 App 存到平板上，之後沒有網路也能用；有新版本時自動下載，回案場列表時套用。
-const CACHE = 'glbg-space-1.0.0-202610271204';
+const CACHE = 'glbg-space-1.0.1-202610280714';
 const FILES = [
   "./",
   "./app.css",
   "./app.js",
-  "./chunks/chunk-224MLUVP.js",
-  "./chunks/chunk-324JX25L.js",
-  "./chunks/chunk-5PAV5EBH.js",
+  "./chunks/chunk-35YT6KV6.js",
   "./chunks/chunk-FCPHGU7T.js",
+  "./chunks/chunk-HKLR2PSZ.js",
+  "./chunks/chunk-KPEIBFDD.js",
+  "./chunks/chunk-NJFQY52V.js",
   "./chunks/chunk-PP5NXC5D.js",
   "./chunks/chunk-UTY7AQCZ.js",
-  "./chunks/chunk-Z3AU6O7D.js",
-  "./chunks/chunk-ZJQS66XF.js",
-  "./chunks/drawing-WKQQ2VTE.js",
-  "./chunks/export-OPBP6TM5.js",
+  "./chunks/chunk-ZR6RBQX7.js",
+  "./chunks/drawing-UALG3VOQ.js",
+  "./chunks/export-Z3OOEBCP.js",
   "./chunks/pdf-OC6QNGSP.js",
   "./chunks/photowall-R57WSBYU.js",
-  "./chunks/report-ESYZX7SX.js",
-  "./chunks/reportview-D2WIN3PS.js",
-  "./chunks/xlsx-DKKUYGAM.js",
+  "./chunks/report-OR6RHWQ3.js",
+  "./chunks/reportview-6RR4RK3Z.js",
+  "./chunks/xlsx-TQFBQ22T.js",
   "./icons/favicon-32.png",
   "./icons/icon-180.png",
   "./icons/icon-192.png",
