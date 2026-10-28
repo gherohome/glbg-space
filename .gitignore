@@ -1,0 +1,5 @@
+node_modules/
+tests/golden.json
+tests/*.png
+preview/
+plugin/**/state.dat
